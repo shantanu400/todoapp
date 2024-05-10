@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap:12px;
+    
+
+}
+.card{
+
+    border: 1px solid black;
+    height:1000vh;
+    padding: 16px;
+    width:100%;
+
+}
+.todo{
+    border: 2px seagreen skyblue;
+    padding: 12px;
+    background-color:antiquewhite;
+    margin: 16px;
+    padding: 12px;
+    
+}
+.progress{
+    border: 2px seagreen skyblue;
+    padding: 12px;
+    background-color:antiquewhite;
+    margin: 16px;
+    padding: 12px;
+    
+}
+.done{
+    border: 2px seagreen skyblue;
+    padding: 12px;
+    background-color:antiquewhite;
+    margin: 16px;
+    padding: 12px;
+    
+}
